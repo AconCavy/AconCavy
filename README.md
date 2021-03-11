@@ -1,4 +1,4 @@
 ## Links
 
 - [Twitter](https://twitter.com/AconCavy)
-- [Blog](https://aconcavy.github.io/Blog/)
+- [Blog](https://aconcavy.github.io/blog/)
